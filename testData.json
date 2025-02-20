@@ -1,0 +1,50 @@
+{
+    "Web Application": {
+        "To Do": [
+            {
+                "Task": "Implement user authentication",
+                "Tags": [
+                    "Feature",
+                    "High Priority"
+                ]
+            },
+            {
+                "Task": "Fix navigation bug",
+                "Tags": [
+                    "Bug"
+                ]
+            }
+        ],
+        "In Progress": [
+            {
+                "Task": "Design system updates",
+                "Tags": ["Design"]
+            }
+        ]
+    },
+    "Mobile Application": {
+        "To Do": [
+            {
+                "Task": "Push notification system",
+                "Tags": [
+                    "Feature"
+                ]
+            }
+        ],
+        "In Progress": [
+            {
+                "Task": "Offline mode",
+                "Tags": [
+                    "Feature",
+                    "High Priority"
+                ]
+            }
+        ],
+        "Done": [
+            {
+                "Task": "App icon design",
+                "Tags": ["Design"]
+            }
+        ]
+    }
+}
